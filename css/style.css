@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    background-color: #136af8;
+    width: 100%;
+    height: 500px;
+    
+}
+
+.logo{
+    float: left;
+    color: white;
+    margin-top: 40px;
+    padding-left: 190px;
+
+
+}
+.a{
+    clear: both;
+    float: right;
+    margin-top: -20px ;
+    margin-right:  200px;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
+.welcome{
+    clear: both;
+    float: left;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+span{
+    color: white
+}
+.welcome p{
+    width: 500px;
+    font-size: 13px;
+    margin-top: 30px;
+    color: white;
+} 
+
+.button{
+    clear: both;
+    margin-left: 170px;
+  
+}
+button{
+    margin-top: 20px;
+    width: 10%;
+    height: 40px;
+    border-radius: 50px;
+    background-color:#081B30 ;
+    color: white;
+    border: 1px solid #081B30;
+    margin-right: 10px;
+    
+
+}
+
+
+
+.product{
+    clear:both;
+    float: left;
+    margin-top: 30px;
+    margin-left: 150px;
+    
+    
+}
+.image{
+    float: left;
+    margin-left: 800px;
+    margin-top: -250px;
+
+}
+span{
+    color: #136af8
+}
+
+.product p{
+    margin-top: 30px;
+    font-size: 13px;
+    
+}
+
+.gallery{
+    background-color:  #081B30;
+    width: 100%;
+    height: 900px;
+    margin-top: 150px;
+
+}
+
+.pics{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.pic{
+   padding-top: 20px;
+   height: 300px;
+   width: 250px;
+   background-color: white;
+   margin-top: 100px;
+   margin-right: 22px;
+}
+
+.pic p{
+    padding-top: 30px;
+    color: #136af8;
+
+}
+
+.pic span{
+    color: #136af8;
+}
+
+
+.about{
+    clear:both;
+    float: left;
+    margin-top: 130px;
+    margin-left: 150px;
+    
+    
+}
+
+
+span{
+    color: #136af8
+}
+
+.about p{
+    margin-top: 30px;
+    font-size: 13px;
+    
+}
+
+.items{
+    background-color:  #136af8;
+    width: 100%;
+    height: 500px;
+    margin-top: 180px;
+    color: white;
+}
+
+
+.best{
+    clear: both;
+    float: left;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+
+
+.best p{
+    width: 500px;
+    font-size: 13px;
+    margin-top: 30px;
+    color: white;
+} 
+
+.buttonX{
+    clear: both;
+    margin-left: 170px;
+  
+}
+button{
+    margin-top: 20px;
+    width: 10%;
+    height: 40px;
+    border-radius: 50px;
+    background-color:#081B30 ;
+    color: white;
+    border: 1px solid #081B30;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+
+.imageX{
+    float: left;
+    margin-left: 800px;
+    margin-top: -250px;
+    height: 100px;
+    
+
+}
+
+.test{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.test p{
+    width: 700px;
+    font-size: 13px;
+    margin-top: 30px;
+    margin-left: -200px;
+    
+}
+
+
+
+
+
+.Us {
+    clear:both;
+    float: left;
+    margin-top: 130px;
+    margin-left: 400px;
+    
+    
+}
+
+.Us h1{
+    margin-left: 100px;
+}
+span{
+    color: #136af8
+}
+
+.Us p{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: -300px;
+    
+    
+}
+
+
+.c{
+    background-color:  #136af8;
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+
+}
+
+.imgc{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.picb{
+   padding-top: 20px;
+   height: 300px;
+   width: 250px;
+   background-color:#136af8;
+   margin-top: 100px;
+   margin-right: 22px;
+}
+
+.picb p{
+    padding-top: 30px;
+    color: white;
+
+}
+
+.picb span{
+    color: purple;
+}
+
+
+
+.form{
+    background-color:  #136af8;
+    width: 100%;
+    height: 450px;
+    margin-top: 250px;
+    
+
+}
+
+
+
